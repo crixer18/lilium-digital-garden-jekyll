@@ -1,7 +1,7 @@
 ---
 title: Your first note
 description: "This is your first note ever!"
-layout: default
+layout: blog
 img: /imgs/about-image.jpg
 tag: gardening
 ---
