@@ -6,8 +6,6 @@ layout: default
 
 1. [Create your digital garden](#create)
 2. [Pusblish your digital garden](#publish)
-   * [Publish on Vercel](#vercel)
-   * [Publish on GitHub Pages](#githbpages)
 
 <hr>
 
