@@ -1,0 +1,25 @@
+title: Lilium Digital Garden
+include: ['_pages']
+baseurl: ''
+
+permalink: pretty
+relative_permalinks: false
+
+plugins:
+  - jekyll-last-modified-at
+  - jekyll-seo-tag
+
+collections:
+  notes:
+    output: true
+    permalink: /_notes/:slug
+
+defaults:
+  - scope:
+      path: "**/*"
+    values:
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"
