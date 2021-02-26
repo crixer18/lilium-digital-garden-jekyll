@@ -8,7 +8,7 @@ title: "Lilium Digital Garden"
 
 I may have an answer for you. It's minimal but fully editable. It adapts to every screen size, it's easy to use and completely free.
 
-Set up your digital garden with **Lilium Gigital Garden Template** for Jekyll.
+Set up your digital garden with **Lilium Digital Garden Template** for Jekyll.
 
 [Take a look](/docs/lilium1.md)
 
