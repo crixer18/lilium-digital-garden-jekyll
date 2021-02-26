@@ -2,6 +2,7 @@
 layout: default
 
 title: "Lilium Digital Garden"
+img: /imgs/snippet.png
 ---
 
 # You'd like to plant new ideas but you don't know how
