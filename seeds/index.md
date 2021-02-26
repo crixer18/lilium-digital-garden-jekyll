@@ -5,4 +5,5 @@ title: Seeds
 
 # Seeds
 
-* [first-post](first-post.md)
+* [Your first note ever!](first-post.md)
+* [I like small screends](second-post.md)
