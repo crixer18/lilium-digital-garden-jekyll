@@ -75,7 +75,7 @@ Markdown is pretty easy to learn, it’s actually just a combination of symbols,
 
 To make it even easier, I suggest you download a proper text editor, like [Atom](https://atom.io/) or [Visual Studio](https://visualstudio.microsoft.com/), that can help you with any syntax mistakes. When you are ready, you'll discover how many amazing things you can create by mixing markdown with some HTLM.
 
-Another thing that you should probably know is that to be creative does not mean to be messy. It’s much easier to use a Jekyll site if its directories are in order. So, when you create a new note, you should put it **in the "_notes" folder**. This way, it will appear in the "Seeds" section, which is a blog-style list of your entries. [Here](https://jekyllrb.com/docs/collections/) you can find a lot of information on that page, such as how to change the order of the displayed notes. In any case, I suggest you to take a look at the [Jekyll](https://jekyllrb.com/) documentation.
+Another thing that you should probably know is that to be creative does not mean to be messy. It’s much easier to use a Jekyll site if its directories are in order. So, when you create a new note, you should put it **in the "seeds" folder** and remember to link it in the "/seeds/index.md" page. If you want to customize that section I suggest you take a look at the [Jekyll](https://jekyllrb.com/) documentation.
 
 <hr>
 
