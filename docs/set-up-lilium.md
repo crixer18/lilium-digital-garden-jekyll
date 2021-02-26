@@ -11,13 +11,13 @@ layout: default
 
 <h3 id="create">Create your digital garden</h3>
 
-If you already have Jekyll installd in your pc, all you have to do is **make a copy of [Lilium template reposiory from GitHub](https://github.com/crixer18/lilium-digital-garden-jekyll)** and use it to create a new website.
+If you already have Jekyll on your pc, all you have to do is **make a copy of [Lilium template reposiory from GitHub](https://github.com/crixer18/lilium-digital-garden-jekyll)** and use it to create a new website.
 
 To make a copy of the repository I suggest you to "fork" mine, so you can find the Lilium template in your GitHub account.
 
 ![GitHub clone repository](/imgs/how-to-1.png)
     
-In this image you see my repository's. Yours will be similar but intead of "crixer18/giardino" there will be your user name and the name of the repository which contains the template.
+In this image you can see my repository's. Yours will be similar but intead of "crixer18/giardino" there will be your user name and the name of the repository which contains the template.
 
 From there you can clone the repository on your pc using terminal.
 
@@ -42,9 +42,9 @@ It was easy, wasn't it?
 
 <h3 id="publish">Publish your digital garden</h3>
 
-The last thing you need to do, if you want it, is to publih your digital garden. There are **a lot of different services for hosting a Jekyll site**, both free and premium. You can publish directly on [GitHub Pages](https://pages.github.com/), or you can chooes another one. [Here](https://jekyllrb.com/docs/deployment/third-party/)'s a list of sites you can use.
+The last thing you need to do, if you want it, is to publih your digital garden. When you’re ready to go online, one thing you need to know is that there are **a lot of different services to host a Jekyll site**, free ones and premium ones. You can publish directly on [GitHub Pages](https://pages.github.com/), or you can chooes another one. [Here](https://jekyllrb.com/docs/deployment/third-party/)'s a list of sites you can use.
 
-**Now you can [start personalize](/docs/start-personalizing.md) your digital garden**. 💡
+**Now you can [start to customize](/docs/start-personalizing.md) your digital garden**. 💡
 
 
 <hr>
