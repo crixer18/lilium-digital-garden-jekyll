@@ -5,4 +5,4 @@ title: Seeds
 
 # Seeds
 
-* [[first-post]]
+* [first-post](first-post.md)
