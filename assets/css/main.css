@@ -139,3 +139,10 @@ input.task-list-item-checkbox {
   color:purple;
   text-shadow: 2px 2px 5px #666666;
 }
+
+.last-update{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.4;
+    font-size: 15px;
+    color:#666666;
+  }
