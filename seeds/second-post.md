@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: I like small screens
 description: Did you know that Lilium Digital Garden template can adapt to the size of your screen? Chek your digital garden from smartphone or tablet and let me know what you think!
 img: /imgs/meghan-schiereck-_XFObcM_7KU-unsplash.jpg
@@ -11,6 +11,7 @@ tag: Features
 ## Lilium can adapt to smartphone and tablets
 
 Did you know that **Lilium Digital Garden template** can adapt to the size of your screen? Chek your digital garden from smartphone or tablet and let me know what you think.
+See [first-post](first-post.md).
 
 ![I like small screens](/imgs/meghan-schiereck-_XFObcM_7KU-unsplash.jpg)
 

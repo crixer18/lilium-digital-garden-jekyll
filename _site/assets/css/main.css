@@ -12,6 +12,14 @@
     }
 }
 
+.last-update {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.4;
+    font-size: 15px;
+    color:#666666;
+    padding-top: 22px;
+  }
+
 .main p, li{
   font-family: 'Roboto Slab', serif;
   font-weight: 400;
